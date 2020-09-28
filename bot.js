@@ -4612,4 +4612,4 @@ client.on('message', message => {
 
 
 
-client.login(process.env.NzYwMDU1NTgyMDU2NjQ0NjA5.X3Ge6w.LgacsUpOY__OkqB6PK6oyI9oR5M);
+client.login(process.env.BOT_TOKEN);
